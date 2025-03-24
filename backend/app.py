@@ -6,6 +6,7 @@ from model import get_recommendations
 import folium
 from folium.plugins import MarkerCluster
 from googletrans import Translator
+import os
 
 app = Flask(__name__, template_folder="../frontend")
 
@@ -99,4 +100,5 @@ def get_wikipedia():
     return jsonify(data)
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    port = int(os.environ.get("PORT", 5000))  # Gunakan PORT dari Render
+    app.run(host="0.0.0.0", port=port, debug=True)
