@@ -1,0 +1,10 @@
+pandas==2.1.4
+nltk==3.9.1
+numpy==1.26.4
+geopy==2.4.1
+folium==0.19.4
+flask==3.0.3
+requests==2.32.3
+bs4==0.0.2
+googletrans==4.0.0rc1
+scikit-learn==1.4.1
