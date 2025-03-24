@@ -9,11 +9,11 @@ This is a simple Machine Learning project developed as part of my own postgradua
 
 The project is built using **Flask** for the backend and **Tailwind CSS** for the frontend, ensuring a visually appealing and responsive web interface.
 
-## 📊 Dataset 
-Dataset that being used in this project are available on kaggle: 
-https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination?select=tourism_with_id.csv 
-Big Thanks to Agung Prabowo that already provide this dataset!
----
+## 📊 Dataset
+Dataset that being used in this project are available on [Kaggle](https://www.kaggle.com/datasets/aprabowo/indonesia-tourism-destination?select=tourism_with_id.csv)
+
+Big thanks to Agung Prabowo who provided this dataset!
+
 
 ## 🚀 Features
 - Recommend top tourist attractions in Jakarta based on user preferences.
