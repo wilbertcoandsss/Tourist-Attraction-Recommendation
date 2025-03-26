@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This is a simple Machine Learning project developed as part of my own postgraduate (Master's) assignment :)
-\nThe project provides recommendations for tourist attractions in Jakarta using a **content-based filtering approach**. It employs **TF-IDF (Term Frequency - Inverse Document Frequency)** and **cosine similarity** to find the most relevant tourist destinations based on user preferences.
+The project provides recommendations for tourist attractions in Jakarta using a **content-based filtering approach**. It employs **TF-IDF (Term Frequency - Inverse Document Frequency)** and **cosine similarity** to find the most relevant tourist destinations based on user preferences.
 
 - **TF-IDF**: A technique to evaluate how important a word is in a document relative to a collection of documents.
 - **Cosine Similarity**: A metric to measure the similarity between two vectors (in this case, the TF-IDF vectors of tourist destinations).
